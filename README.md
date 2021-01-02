@@ -14,7 +14,7 @@ Given the provided data, three conclusions we can draw about Kickstarter campaig
 1. The first conclusion we can draw is that theater campaigns had the most successful campaigns of any categories, with plays having the most successful campaigns of the sub-categories amongst all the countries.
 2. The second conclusion we can draw is that theater campaigns had the most failed campaigns of the categories, with plays also having the most failed campaigns of the sub-categories amongst all the countries.  So while these campaigns could do well, they could also be quite risky as they had a fair amount of failure too.
 
-![image](https://user-images.githubusercontent.com/69765842/103449024-e9a64180-4c6f-11eb-8166-ee79de533763.png)
+![image](https://user-images.githubusercontent.com/69765842/103449064-ad271580-4c70-11eb-9102-a3aaadaf1da4.png)
 
 3. The third conclusion that was especially noticeable from the third pivot chart was that the number of successful campaigns really started to decline towards the end of the year, specifically in the months of November and December.
 
