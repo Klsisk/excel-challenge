@@ -32,6 +32,7 @@ I think the median summarizes the data more meaningfully in successful or failed
 
 Successful campaigns have more variability. This makes more sense to me as a high standard deviation indicates that the data points are spread out over a large range of values.  The unsuccessful campaigns are showing less variability.  The lower standard deviation shows that the data is more clustered around the mean. This makes sense because the criteria for a failed campaign is having fewer backers, which means the standard deviation is low while a successful campaign has more backers, giving it a higher standard deviation.
 
+![image](https://user-images.githubusercontent.com/69765842/103448981-4ce3a400-4c6f-11eb-99fb-f2eacf0e4b15.png)
 
 
 
