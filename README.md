@@ -18,7 +18,7 @@ Given the provided data, three conclusions we can draw about Kickstarter campaig
 
 3. The third conclusion that was especially noticeable from the third pivot chart was that the number of successful campaigns really started to decline towards the end of the year, specifically in the months of November and December.
 
-
+![image](https://user-images.githubusercontent.com/69765842/103449041-40ac1680-4c70-11eb-8566-6e429cb94dbe.png)
 
 ### Limitations
 Some limitations of this dataset are as follows:
